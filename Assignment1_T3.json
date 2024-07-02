@@ -1,0 +1,12 @@
+{
+    "favoriteMovies":{
+        "Movies" : ["Inception","Kalki","The imitation game"]
+    },
+    "courseSchedule":{
+        "courses":[
+            {"name":"deep learning","instructor":"MDM","credit":4,"meetingTimes":[{"Mon":"9am to 10am"},{"Tue":"8am to 9am"},{"Wed":"9am to 10am"}]},
+            {"name":"patter regonition","instructor":"PSD","credit":4,"meetingTimes":[{"Mon":"8am to 9am"},{"Tue":"9am to 10am"},{"Thu":"9am to 10am"}]},
+            {"name":"machine learning","instructor":"RBK","credit":3,"meetingTimes":[{"Mon":"10am to 11am"},{"Fri":"12pm to 1pm"},{"Thu":"8am to 9am"}]}
+        ]
+    }
+}

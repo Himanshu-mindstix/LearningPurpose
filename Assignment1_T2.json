@@ -1,0 +1,16 @@
+{
+    "student":{
+        "name" : "Hiamashu Singh",
+        "age" : 25,
+        "major" : "Computer Science",
+        "hasCompletedIntroToCS" : true
+    },
+    "book":{
+        "title" : "Power of Mind",
+        "author" : "Swami Vivekanand",
+        "genre" : "Philosophy",
+        "yearPublished" : "1933",
+        "isRecommended" : true
+
+    }
+}

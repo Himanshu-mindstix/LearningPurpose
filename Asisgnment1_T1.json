@@ -1,0 +1,12 @@
+{
+    "Task1": {
+    "name": "Himanshu Singh",
+    "message": "Hey, I am doing Here First assignment at mindstix",
+    "age": 30,
+    "pi": 3.14159,
+    "isStudent": false,
+    "likesPizza": true
+
+
+}
+}
